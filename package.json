@@ -10,6 +10,6 @@
    "license": "ISC",
    "publishConfig": {
       "access": "public",
-      "registry": "http://localhost:8081/repository/npm-private/"
+      "registry": "http://localhost:8081/repository/npm-private/:_authToken={base64 encoded usernameVariable:passwordVariable}"
    }
 }
