@@ -9,6 +9,7 @@
    "author": "",
    "license": "ISC",
    "publishConfig": {
+      "access": "public",
       "registry": "http://localhost:8081/repository/npm-private/"
    }
 }
